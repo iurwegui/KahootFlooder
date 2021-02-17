@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 
 numberOfBots = 25
 baseName = 'Bot'
-gamePin = '635746'
+gamePin = '4746437'
 
 delayBeforeLeaving = 20
 delayBetweenActions = 2.5
